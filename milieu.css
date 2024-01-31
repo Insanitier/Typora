@@ -1,0 +1,9 @@
+/*Style backdrop*/
+.backdropImage {filter: blur(18px) saturate(120%) contrast(120%) brightness(40%);}
+
+/*Login background*/
+#loginPage {background: url(https://w.wallhaven.cc/full/l8/wallhaven-l8rv72.png) !important;}
+
+/*Accent and roundingd*/
+:root {--accent: 98, 121, 205;}
+:root {--rounding: 12px;}
